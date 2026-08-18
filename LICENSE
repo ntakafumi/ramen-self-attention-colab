@@ -1,0 +1,30 @@
+Copyright (c) 2026 Takafumi Nakanishi (中西 崇文)
+All rights reserved.
+
+LIMITED EDUCATIONAL USE PERMISSION
+
+Subject to the conditions below, permission is granted to:
+
+1. download, fork, and execute the notebook for personal learning or
+   non-commercial classroom instruction;
+2. make private modifications for those same purposes; and
+3. provide copies, including modified copies, without charge to students
+   enrolled in the same non-commercial class, provided that access is limited
+   to those students.
+
+The copyright notice and this license must be retained in every permitted
+copy. No permission is granted to sell, sublicense, commercially exploit,
+publicly redistribute, publicly post modified copies, or incorporate the
+original materials into another published work without prior written
+permission from the copyright holder.
+
+Except for the limited permission above, no permission is granted to copy,
+modify, distribute, sublicense, sell, or create derivative works from the
+original text, source code, notebook structure, tables, or other original
+materials in this repository.
+
+Making this repository publicly viewable does not grant a license beyond the
+rights required to access it through GitHub under GitHub's applicable terms.
+
+Third-party models, libraries, papers, and other materials retain their own
+copyrights and licenses. See THIRD_PARTY_NOTICES.md and the LICENSES directory.

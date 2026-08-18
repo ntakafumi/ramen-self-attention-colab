@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "この教材を研究、授業、記事で参照する場合は、次の情報を使用してください。"
+title: "『ラーメンが』の次は『好き』？ Attentionを計算してみよう"
+type: software
+authors:
+  - family-names: "Nakanishi"
+    given-names: "Takafumi"
+version: 1.0.0
+date-released: 2026-08-18
+abstract: >-
+  日本語BERTの学習済み単語Embeddingを入口に、Scaled Dot-Product
+  Attention、候補比較、学習、対照実験をGoogle Colab上で追跡する初心者向け教材。
+keywords:
+  - Transformer
+  - Attention
+  - Embedding
+  - BERT
+  - Google Colab
+  - Japanese NLP
+preferred-citation:
+  type: book
+  title: "ChatGPTはどのように動いているのか？"
+  authors:
+    - family-names: "Nakanishi"
+      given-names: "Takafumi"
+  publisher:
+    name: "翔泳社"
+  year: 2026
