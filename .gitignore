@@ -1,0 +1,12 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+candidate_embeddings_768.csv
+input_embeddings_768.csv
+local_references/
+
+# 公開リポジトリへ含めない執筆・設計メモ
+ChatGPTはどのように動いているのか_書籍まとめとTransformer手計算実験.md
+Transformer初心者編_EmbeddingとSelf-Attentionの教材設計メモ.md
+Transformer初心者編_EmbeddingとSelf-Attentionの教材設計メモ_旧案.md
