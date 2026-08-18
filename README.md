@@ -187,21 +187,6 @@ Copyright (c) 2026 Takafumi Nakanishi（中西 崇文）。
 
 将来、教材の再利用を広く許可する場合は、著者が公開方針を決めたうえで、MIT LicenseやApache License 2.0などへ明示的に変更する必要があります。
 
-## 公開前の検査
-
-Colabで再実行した後は、リポジトリのルートで次の二つを順に実行します。
-
-```bash
-python3 scripts/clean_notebook.py
-python3 scripts/validate_notebook.py
-```
-
-一つ目は、Colabがセルへ付加した利用者情報、実行時刻、内部ID、Colab専用のDataFrame表示を除去します。
-
-二つ目は、全コードセルの実行番号、エラー出力、ローカル絶対パス、Colab固有メタデータ、公開に必要なファイルを検査します。
-
-GitHubへpushした場合は、GitHub Actionsでも同じ検査を自動実行します。
-
 ## 参考文献
 
 - Ashish Vaswani et al., [Attention Is All You Need](https://arxiv.org/abs/1706.03762), 2017.
