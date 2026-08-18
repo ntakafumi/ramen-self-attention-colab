@@ -43,7 +43,7 @@ Notebookでは、次の順に計算します。
 
 共通する中心計算は、次の式です。
 
-$$\operatorname{Attention}(Q,K,V)=\operatorname{softmax}\left(\frac{QK^\top}{\sqrt{d_k}}\right)V$$
+$$Attention(Q,K,V)=softmax\left(\frac{QK^\top}{\sqrt{d_k}}\right)V$$
 
 ただし、このNotebookが作るのは、固定した日本語BERTの単語Embedding表を入力に使う教材用の三分類模型です。
 
